@@ -4,4 +4,11 @@ This project aims to collect all legal materials for all laws in one source wher
 legal materials. It is also a site for communication between clients and lawyers by creating accounts for lawyers and other accounts for users who can search for
 lawyers, communicate with them, and take an appointment. Thus, this application is specific to the judicial authorities.
 
+## FrameWorks
+- Bootstrap
+- .net core
+
+## Programming languages
+- C Sharp
+- JavaScript
 

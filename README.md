@@ -8,7 +8,3 @@ lawyers, communicate with them, and take an appointment. Thus, this application 
 - Bootstrap
 - .net core
 
-## Programming languages
-- C Sharp
-- JavaScript
-

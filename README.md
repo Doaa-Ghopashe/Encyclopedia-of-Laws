@@ -6,12 +6,13 @@ lawyers, communicate with them, and take an appointment. Thus, this application 
 
 ## Tools
 - Bootstrap
-- .net core ### FrameWork
-- C#
-- JavaScript
-- PHP
-- HTML
-- CSS
-- SQLSERVER
+- .net core -> FrameWork
+- C# -> Programming Language
+- JavaScript -> Programming Language
+- PHP -> Programming Language
+- HTML -> Markup Language
+- CSS -> Markup Language
+- SQLSERVER -> Database
 
+## ReadMore
 [final.pdf](https://github.com/Doaa-Ghopashe/Encyclopedia-of-Laws/files/10546324/final.pdf)

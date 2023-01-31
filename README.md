@@ -8,12 +8,12 @@ lawyers, communicate with them, and take an appointment. Thus, this application 
 - Bootstrap
 - .net core
 
-##Programming Languages
+## Programming Languages
 - C#
 - JavaScript
 - PHP
 
-#MarkupLanguages
+## MarkupLanguages
 - HTML
 - CSS
 

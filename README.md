@@ -6,7 +6,7 @@ lawyers, communicate with them, and take an appointment. Thus, this application 
 
 ## Tools
 - Bootstrap
-- .net core
+- .net core ###@FrameWork
 - C#
 - JavaScript
 - PHP

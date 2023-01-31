@@ -4,11 +4,15 @@ This project aims to collect all legal materials for all laws in one source wher
 legal materials. It is also a site for communication between clients and lawyers by creating accounts for lawyers and other accounts for users who can search for
 lawyers, communicate with them, and take an appointment. Thus, this application is specific to the judicial authorities.
 
-## FrameWorks
+## Tools
 - Bootstrap
-- .net core
+- .net core -> FrameWork
+- C# -> Programming Language
+- JavaScript -> Programming Language
+- PHP -> Programming Language
+- HTML -> Markup Language
+- CSS -> Markup Language
+- SQLSERVER -> Database
 
-## Programming languages
-- C Sharp
-- JavaScript
-
+## ReadMore
+[Documentation.pdf](https://github.com/Doaa-Ghopashe/Encyclopedia-of-Laws/files/10546324/final.pdf)
